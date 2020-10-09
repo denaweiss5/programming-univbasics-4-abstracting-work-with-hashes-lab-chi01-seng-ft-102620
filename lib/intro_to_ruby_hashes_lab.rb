@@ -1,6 +1,5 @@
   def my_hash_creator(key, value)
     {name: 'Grace Hopper'}
-    my_hash_creator.new (key, value)
     my_hash_creator.new= {1=> 2}
 end
 
