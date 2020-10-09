@@ -2,7 +2,6 @@ def def working_with_hashes
   def instantiating
   def my_hash_creator(:name, 'Grace Hopper')
   my_hash_creator = {:name => "Grace Hopper"}
-  end
 end
 end
 
