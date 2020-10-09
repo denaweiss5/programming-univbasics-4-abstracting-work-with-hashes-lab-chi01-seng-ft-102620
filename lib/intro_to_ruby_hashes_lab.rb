@@ -4,7 +4,7 @@
 end
 
 def read_from_hash(hash, key)
-hash_to_read= {location: 'New York City', occupation: 'Student'}
+hash[key]
 end
 
 def update_counting_hash(hash, key)
