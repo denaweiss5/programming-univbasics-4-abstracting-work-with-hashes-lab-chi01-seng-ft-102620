@@ -1,6 +1,9 @@
-def my_hash_creator(:name, "Grace Hopper")
-  Hash= {:name => "Grace Hopper"}
-Hash
+def def working_with_hashes
+  def instantiating
+  def my_hash_creator(:name, 'Grace Hopper')
+  my_hash_creator = {:name => "Grace Hopper"}
+  end
+end
 end
 
 def read_from_hash(hash, key)
